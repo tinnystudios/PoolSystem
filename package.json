@@ -1,0 +1,12 @@
+{
+    "name": "com.liminal.object.pooling",
+    "displayName": "Object Pooling",
+    "version": "0.0.1",
+    "unity": "2018.3",
+    "description": "A simple generic framework for object pooling",
+    "keywords": [
+        "pooling",
+        "unity"
+    ],
+    "category": "Unity"
+}
